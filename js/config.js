@@ -22,6 +22,11 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    xlzy: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/json',
+        name: '新浪资源一',
+        detail: 'https://api.xinlangapi.com/', 
+    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
