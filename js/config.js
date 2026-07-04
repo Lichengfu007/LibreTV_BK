@@ -25,7 +25,7 @@ const API_SITES = {
     xlzy: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
         name: '新浪资源一',
-        detail: 'https://api.xinlangapi.com/', 
+        detail: '', 
     },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
